@@ -8,7 +8,7 @@ ol, ul {list-style: none;list-style-type: none;}
 .clearfix:before,
 .clearfix:after{content:".";display:block;height:0;overflow:hidden}
 .clearfix:after{clear:both}
-body{font-size: 13px;font-weight:100;background-color: #111111 ;color:#ccc;font-family: 'Open Sans', arial,sans-serif;-moz-text-size-adjust:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;line-height: normal;
+body{font-size: 13px;font-weight:100;background-color: #011325 ;color:#ccc;font-family: 'Open Sans', arial,sans-serif;-moz-text-size-adjust:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;line-height: normal;
 }
 
 .container{position: relative;}
@@ -16,10 +16,10 @@ section{position: relative;width: auto;height: 100%;}
 .mid-wrapper{position: relative;margin: 0 auto; width: 1366px;}
 .fullheight-content{height: 100vh;}
 
-header{position: relative;background-color: #111;/*background: url(../../content/img/bg.jpg) no-repeat center center;background-size: cover;background-attachment: fixed;*/}
+header{position: relative;background-color: #011325;/*background: url(../../content/img/bg.jpg) no-repeat center center;background-size: cover;background-attachment: fixed;*/}
 
 .footer{position: fixed;height: 50px;background-color: #575458;line-height: 50px;text-align: center;bottom: 0;width: 100%}
-section.row-one{background-color: #111;border-top: 1px solid #575458;}
+section.row-one{background-color: #011325;border-top: 1px solid #575458;}
 
 
 /* header section css starts */
