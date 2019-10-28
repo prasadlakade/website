@@ -18,26 +18,26 @@ section{position: relative;width: auto;height: 100%;}
 
 header{position: relative;background-color: #011325;/*background: url(../../content/img/bg.jpg) no-repeat center center;background-size: cover;background-attachment: fixed;*/}
 
-.footer{position: fixed;height: 50px;background-color: #272727;line-height: 50px;text-align: center;bottom: 0;width: 100%}
-section.row-one{background-color: #011325;border-top: 1px solid #272727;}
+.footer{position: fixed;height: 50px;background-color: #105d82;line-height: 50px;text-align: center;bottom: 0;width: 100%}
+section.row-one{background-color: #011325;border-top: 1px solid #105d82;}
 
 
 /* header section css starts */
 
-.top-bar{position: fixed;width: auto;height: 50px;line-height: 50px;background-color: #272727;top: 0;left: 0;right: 0;z-index: 99;}
+.top-bar{position: fixed;width: auto;height: 50px;line-height: 50px;background-color: #105d82;top: 0;left: 0;right: 0;z-index: 99;}
 .top-bar .site-logo{position: relative;display: block;width: auto;max-width:300px;float: left;    margin-left: 20px;}
 .top-bar .site-logo a{font-size: 20px;text-transform: uppercase;font-weight: 600;}
 .top-bar a{position: relative;display: block;float: right;color:#eee;}
 .top-bar ul{padding: 0 15px;}
 
 .content{position: fixed;width: 500px;left: 50%;margin-left: -250px;height: 330px;top:50%;margin-top: -165px;text-align: center;border-radius: 5px;text-align: center;/*background-color: rgba(0,0,0,0.5);*/}
-.profile-pic {position: relative;width: 150px;height: 150px;background-color: #272727;border-radius: 50%;margin: 10px auto;background: #272727 url(../../content/img/mypic1.jpg) no-repeat center center;background-size: 100% 100%;}
+.profile-pic {position: relative;width: 150px;height: 150px;background-color: #105d82;border-radius: 50%;margin: 10px auto;background: #105d82 url(../../content/img/mypic1.jpg) no-repeat center center;background-size: 100% 100%;}
 .myname p {font-size: 30px;}
 .mydetails p{font-weight: 100;font-size: 20px;}
-.mybutton{color: #eee;padding: 10px 25px; background-color: #272727;clear: both;position: relative;display: inline-block;margin-top: 5px;text-transform: uppercase;}
+.mybutton{color: #eee;padding: 10px 25px; background-color: #105d82;clear: both;position: relative;display: inline-block;margin-top: 5px;text-transform: uppercase;}
 .mybutton:hover{background-color: #484e58;}
 .section-button{position: fixed;height: 40px;top:50%;margin-top:-20px;right:25px;width: auto;display: inline-block;text-align: center;z-index: 999;}
-.section-button a{color: #272727;display: block;transform: scale(1.0);}
+.section-button a{color: #105d82;display: block;transform: scale(1.0);}
 .section-button a:hover{color: #fff;transform: scale(1.1);}
 /* header section  css ends*/
 
@@ -51,7 +51,7 @@ section.row-one{background-color: #011325;border-top: 1px solid #272727;}
 .social-links{position: relative;width: auto;margin: 0 auto;text-align: center;}
 .social-links li{position: relative;display: inline-block;width: 20%;float: left;color:#fff;}
 .social-links li a{color: #fff;font-size: 30px;}
-.social-links li a:hover{color: #272727}
+.social-links li a:hover{color: #105d82}
 
 /* about me section css ends */
 
