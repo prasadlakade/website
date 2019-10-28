@@ -142,7 +142,7 @@ body{overflow: hidden;}
 				<div class="mid-wrapper">
 
 				</div>
-				<div class="footer-content">Copyright © 2017 PrasadLakade </div>
+				<div class="footer-content">Copyright © <span id="yearcurr"></span> PrasadLakade </div>
 			</div>
 		</div>
 
@@ -154,6 +154,11 @@ body{overflow: hidden;}
 
 
 </script>
-
+<script type="text/javascript">
+  var currentYear = (new Date).getFullYear();
+  $(document).ready(function() {
+  $("#yearcurr").text( (new Date).getFullYear() );
+  });
+</script>
 </body>
 </html>
